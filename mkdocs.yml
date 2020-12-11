@@ -1,4 +1,4 @@
-site_name: Alex docs
+site_name: Alex Work Station
 dev_addr: '127.0.0.1:8090'
 
 # Configuration
@@ -21,4 +21,4 @@ theme:
     icon: "\uE80C"
 
 
-主页: index.md
+home: index.md

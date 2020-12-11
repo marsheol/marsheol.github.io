@@ -1,1 +1,3 @@
-Hello World
+# start
+
+create wiki:  `mkdocs new wiki`
