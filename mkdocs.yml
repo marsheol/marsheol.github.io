@@ -1,0 +1,24 @@
+site_name: Alex docs
+dev_addr: '127.0.0.1:8090'
+
+# Configuration
+theme:
+  name: null
+  custom_dir: material
+
+  # Default values, taken from mkdocs_theme.yml
+  language: en
+  feature:
+    tabs: true
+  palette:
+    primary: black
+    accent: black
+  font:
+    text: Roboto
+    code: Roboto Mono
+  favicon: assets/images/favicon.png
+  logo:
+    icon: "\uE80C"
+
+
+主页: index.md
