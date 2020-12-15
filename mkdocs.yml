@@ -1,4 +1,4 @@
-site_name: Alex Work Station
+site_name: Marsheol de 笔记本
 dev_addr: '127.0.0.1:8090'
 
 # Configuration
@@ -16,7 +16,7 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-  favicon: assets/images/favicon.ico
+  favicon: assets/images/icons/favicon.ico
   logo:
     icon: "\uE80C"
 
