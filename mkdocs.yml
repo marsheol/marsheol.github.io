@@ -16,9 +16,13 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-  favicon: assets/images/favicon.png
+  favicon: assets/images/favicon.ico
   logo:
     icon: "\uE80C"
 
 
-home: index.md
+nav:
+  - 首页: index.md
+  - 笔记: 
+    - MySQL: mysql.md
+    - Linux: linux.md

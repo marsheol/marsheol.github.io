@@ -1,5 +1,5 @@
 @echo off
-title Andy wiki
+title marsheol wiki
 
 choice /t 2 /d y /n >nul
 

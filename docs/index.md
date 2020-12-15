@@ -1,3 +1,3 @@
-# start
+# 首页
 
-create wiki:  `mkdocs new wiki`
+Welcome to my station !
